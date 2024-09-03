@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ola tudo bem
+=======
+cola
+>>>>>>> branch-a
